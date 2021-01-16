@@ -16,7 +16,7 @@
 #####Fim de Jogo e Pontuação
 O fim do jogo ocorre quando partes da cobrinha se encontram (*mesmo que não consigas ver rs*)! junto do aviso de game over também encontras tua pontuação.
 
-<img src="https://github.com/narelo/snake-game/blob/main/img/score.JPG?raw=true" alt="game-over" width="705px">
+<img src="https://github.com/narelo/snake-game/blob/main/img/score.JPG?raw=true" alt="game-over" width="710px">
 
 <hr>
 
