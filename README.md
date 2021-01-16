@@ -6,7 +6,7 @@
 ##### Recriando o jogo da cobrinha com JavaScript
 
 ##### Interface do Jogo
-* design de título **feito** para o jogo 
+* design de título **feito**/**criado** para o jogo 
 * teclas de movimento: setas
 
 ![Alt Text](https://github.com/narelo/snake-game/blob/main/img/snake-game.gif?raw=true)
