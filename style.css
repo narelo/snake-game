@@ -1,0 +1,16 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(./img/background.png);
+    color: rgb(52, 165, 52);
+}
+
+#title{
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
